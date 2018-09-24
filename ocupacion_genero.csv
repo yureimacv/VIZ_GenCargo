@@ -1,9 +1,9 @@
-ocupacion,Hombres,Mujeres
-Comerciantes y vendedores,908388,1074150
-Directores y funcionarios Publicos superiores,210344,140660
-No informa,70771,13628
-Personal Administrativo.,540032,758118
-Profesionales y tecnicos,819636,652432
-Trabajadores Agropecuarios y forestales,66539,12728
-Trabajadores de los servicios,708063,1582639
-Trabajadores y operadores no agricolas,2285749,578883
+ocupacion,Hombres,Mujeres,line
+Comerciantes y vendedores,908388,1074150,1
+Directores y funcionarios Publicos superiores,210344,140660,1
+No informa,70771,13628,1
+Personal Administrativo.,540032,758118,1
+Profesionales y tecnicos,819636,652432,1
+Trabajadores Agropecuarios y forestales,66539,12728,1
+Trabajadores de los servicios,708063,1582639,1
+Trabajadores y operadores no agricolas,2285749,578883,1
