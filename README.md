@@ -4,4 +4,4 @@ Este proyecto se realizó con el objetivo de analizar la distribución por géne
 
 La visualización está disponible aquí: [a link] http://yureimacv.github.io/yureimacv-DS/v5_stackedbarFiltro.html
 
-Para la creación de este proyecto se utilizó D3, Bootstrap y Sublime.
+Para la creación de este proyecto se utilizó D3, Bootstrap y Sublime y estos datos publicos de la plataforma Datos.gov.co:https://www.datos.gov.co/Mapas-Nacionales/Mercado-laboral-ocupaci-n-por-nivel-educativo/dwfg-8k4j.
